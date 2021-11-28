@@ -1,0 +1,19 @@
+{
+  "name": "fastify-docker-fluentd-example",
+  "version": "1.0.0",
+  "description": "The main goal of this project is to explore the posibility of using docker's plugin `influetd`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "3.13.0",
+    "fastify-plugin": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0"
+  }
+}
